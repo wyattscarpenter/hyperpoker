@@ -77,17 +77,22 @@ Four-color suits (where eg diamonds gets a different color than hearts to make t
 ### Overview
 
 #### Iclonic sets
-Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it. To shorten "iclonic set", I will sometimes use the term "iclonis". Which I will occassionally misspell "iconis" — but, hey, that isn't an English word yet either, so, let's just declare that to be a synonym of iclonis to keep ourselves safe.
+
+Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it. To shorten "iclonic set", I will sometimes use the term "iclonis" (plural "iclonises"). Which I will occassionally misspell "iconis" (pl. "iconises") — but, hey, that isn't an English word yet either, so, let's just declare that to be a synonym of iclonis to keep ourselves safe. Also, I keep finding myself wanting to write "icloni" and "iconi", so I'm making those alternative plural forms as well.
 
 anyone can write text, in fact there's so much bespoke text that we can never sensibly encode it, but Unicode and the latin alphabet are iclonic sets.
 
 the surprise of finding secret members and hidden structures
 
-four humors etc. correspondences. opposites.
+many people are so captivated by icloni. four humors etc. correspondences. opposites.
 
 One thing about iclonic sets is that they all have for their members abstracta in the first place. This salt shaker in front of me as I write is not the member of any iclonic set. But salt might be. (Indeed, it's part of the "salt and pepper" iclonic set.) No particular token card that you carry around is part of an iclonic set; the card is an instance of a class (say, Three Of Diamonds) that is part of the iclonic set (playing cards).
 
 Of course, this can get a little mixed up, and it is one of the little joyous amusing suprises in life (perhaps an "[improper heirarchy](https://www.youtube.com/watch?v=ar9WRwCiSr0)" joke as Tom 7 would say) when a *particular* thing ends up in an iclonic set, such as how the Rain Man in hanafuda is the particular man Ono no Michikaze, or how the face cards in the Paris pattern of playing cards are particular historical people (although that is less funny, because it itself forms a pattern).
+
+A lot of iclonises, maybe all of them, are pretty much just made up. Conventional. Even if they are naturally occurring, our decision to group them together is usually somewhat arbitrary. For example: besides their names, the cardinal directions are fairly described as naturally occurring. However, the fact that we decided we *wanted* a set that has orthogonal axes instead of, say, six axes aligned to north, is still pretty much our arbitrary, conventional choice. There are a couple iclonises I think are completely non-conventional, like {true and false}. We could have invented a system like {true, kinda, and false}, but... get real. That one was given to us by God. And so with the primes, except for the question of whether 1 is a prime. But most of them, most icloni are just a whimsical collection of objects brought together by convention, like {salt and pepper} or the months of the year.
+
+I think a lot of people become obsessed with icloni because they think they *aren't* conventional. The fact that you can map the four humors to the four cardinal directions helps you divine the will of God, in their mistaken view. But me? I just like 'em!
 
 Being public domain really helps your iclonicity, in my view. I don't think it's a necessary condition (nor is it sufficient, for all you playing at home), but it does help — it's related to the idea that there are many tokens of this set being produced, and thus the set is very common.
 
