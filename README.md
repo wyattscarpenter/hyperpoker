@@ -121,6 +121,9 @@ Suits (and metasuits?)
 
 Patterns (I'm not sure I understand this term nor how specific it is exactly)
 
+#### Size and shape
+
+I like the size and shape of standard playing cards. In history, cards have come in many shapes and sizes, but I would use the contemporary standard playing card size for these cards, and adapt other cards to that if need be.
 
 #### Styles
 
