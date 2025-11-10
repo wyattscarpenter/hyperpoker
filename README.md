@@ -140,6 +140,8 @@ Modern linear is probably based on the tradition of woodblock printing playing c
 
 Modern linear is the basis of most modern playing cards, and most companies that sell playing cards have their own particular flavor of Modern Linear.
 
+I should decide if modern linear is more or less specific than english pattern. I have a deck of playing cards (swiss flag backs) that is basically Modern Linear but german suits. Is that German Modern Linear, or, like Modern Linear but German? I'm leaning towards the former.
+
 ### History (TODO)
 
 Chinese money cards, probably, although no one is sure as far as I know.
