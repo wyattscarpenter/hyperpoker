@@ -1,5 +1,7 @@
 # hyperpoker
 
+> I ’ardly know ’er
+
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
 There are three main categories of thought I have about this topic. Cards, rules, and a hypothetical video game adaption of the rules and cards. Speaking of that video game, it's worth noting that this repo is *not* public domain and is proprietary to me. However, I would happily strike a deal to someone who actually wanted to take the time to immplement this in a tangible saleable medium.
