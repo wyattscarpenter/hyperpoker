@@ -106,7 +106,7 @@ I am also just aware of things by running into them in my life, and will mention
 * _DDG_: _Dungeons & Degenerate Gamblers_, a video game
 * _B_: _Balatro_, a video game
 * _DDGB_: _DDG_, and possibly also _B_ (I played a lot more of _DDG_ than _B_, so my memories of _B_ are often hazier)
-* TODO I think there was another one I thought I was going to reference later
+* _I_: _Inscryption_, a video game
 
 If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
 
