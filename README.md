@@ -171,6 +171,8 @@ I guess that's pretty much it.
 
 ### Various
 
+Loteria isn't a card game exactly, but it's perfect for me.
+
 I keep looking up Karnöffel because of the hogs in the video game _Inscryption_, and then I realize it's unsuitable for some reason (which reason I usually forget).
 
 I thought I had discovered a new tarot-like set of cards in [Lenormand cards](https://en.wikipedia.org/wiki/Lenormand_cards), which are labelled things like "Rider" and "House". But these cards have already gone to the trouble of telling you what conventional playing card they correspond to, which I guess just makes them a themed deck of playing cards 🤷‍♂️. TODO: need a name for these. "Pattern", like spanish or french pattern? Then again, those associations could just be ignored or something (although I suppose they are already quite strong associations).
