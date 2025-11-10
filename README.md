@@ -4,26 +4,80 @@
 
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
-There are three main categories of thought I have about this topic. Cards, rules, and a hypothetical video game adaption of the rules and cards. Speaking of that video game, it's worth noting that this repo is *not* public domain and is proprietary to me. However, I would happily strike a deal to someone who actually wanted to take the time to immplement this in a tangible saleable medium.
+There are three main categories of thought I have about this topic. Cards, rules, and a hypothetical video game adaption of the rules and cards. Speaking of that video game, it's worth noting that this repo is *not* public domain and is proprietary to me. However, I would happily strike a deal with someone who actually wanted to take the time to implement this in a tangible saleable medium.
 
 ## Video game implementation (hypothetical)
 
-Anyway, I don't have much to say about the video game, except that you would probably start by playing 0-poker (in which every game is a draw), and then after a certain number of victory points unlock 1-poker, and victories would unlock things in the n-dimensional space of generalized hyperpoker such as hand size, card variety, and special rules like around-the-corner straights. These should be arranged intelligently so that you don't have to beat 2ⁿ things, but you would probably have to beat a lot of things. The poker simulator should also be quite good, on a basic level. Performant, high-definition, modern-style, and 2d (although "fake" 3d can be used for effects or whatever). You should be able to use keyboard, mouse, and controller, individually or in concert. This seems like a lot of work just to do basically well, which is largely why I haven't done it. I'm just too busy looking up playing card wikipedia pages.
+Anyway, I don't have much to say about the video game, except that you would probably start by playing 0-poker (in which every game is a draw), and then after a certain number of victory points unlock 1-poker, and victories would unlock things in the n-dimensional space of generalized hyperpoker such as hand size, card variety, and special rules like around-the-corner straights. These should be arranged intelligently so that you don't have to beat 2ⁿ things, but you would probably have to beat a lot of things. The poker simulator should also be quite good, on a basic level. Performant, high-definition, modern-style, and 2d (although "fake" 3d can be used for effects or whatever). (Ideally, all the graphics should be vector graphics, so that it can be scaled up arbitrarily and still look smooth.) You should be able to use keyboard, mouse, and controller, individually or in concert. This seems like a lot of work just to do basically well, which is largely why I haven't done it. I'm just too busy looking up playing card wikipedia pages.
 
 Generalized hyperpoker should also be playable in real life, in principle. In fact, the main game I imagine coming out of hyperpoker is basically just texas hold 'em but you can make a 7-card straight.
 
 ## Rules
 
+TODO: the rules and cards section are slowly merging, although the history and research sections are still distinct, which is really the important part.
+
+This section concerns questions of how cards should be generalized, in addition to simple rules or numerical adjustments. Therefore, some things are marked as (arbitrary art need), where I predict some implemention of a generalization could (should?) require an infinite or arbitrarily-large amount of art effort. This probably could be dealt with using [procedural generation](https://en.wikipedia.org/wiki/Procedural_generation) of the relevant art assets, or perhaps with modern [AI art](https://en.wikipedia.org/wiki/Artificial_intelligence_visual_art) systems (although, in my experience, circa 2025, good luck trying to get the stock models to generate varied yet consistent things like face cards, especially of sufficient quality, complexity, and crispness). Either giving up on having infinite art or procedural generation are probably the way to go; the latter could be very rewarding, but extremely hard to get right and of course probably finite in the end anyway.
+
 Any version of poker that's generalized to less than the current rules of poker is technically more-accurately referred to as hypopoker instead of hyperpoker, but whatever.
 
+There is an ambiguity in whether the cards held in your hand are your "hand" or the combo you make with the cards is called your "hand". To remove ambiguity in this document, the former will be referred to as your "hole" (from texas hold 'em — where, ironically, you do not hold them) and the latter will be referred to as your "combo". Also, I will probably mess up and just write "hand" sometimes; try to figure those out from context.
+
 It can be observed that ∞-poker would be unplayable in at least the respect that you would have to draw infinity cards, which would take forever. Maybe you could interpret this in some special way that would still allow you to play a game with it, like you just get to pick any cards out of a static selection of all of the cards (where the stock of each card is unlimited) — but since you also get to play an infinite number of cards, this would be difficult to bound as well. There is also the issue that ∞-number-cards poker has an infinite number of number cards available to choose from, but I suppose that's just a user interface issue.
+
+### Quantity of deck, hand, river, etc
+
+The number of cards in the deck, hole, combo, community cards, each phase (and how many phases) of reveal in the community cards if generalizing texas hold 'em, etc, can be generalized up or down (and are in real life, often!).
+
+Generalizing the number of cards in the combo is a little interesting, because now there is a 7-straight potential, for example; but the poker hand rankings are based on cold mathematical calculation of the odds of each one anyway, so the procedure is determinate.
+
+### Stripped decks
+
+The cards in the deck can be generalized down from the normal 52, creating what is technically known as a "stripped deck".
+
+### Numbered cards
+
+The numbered cards instantly suggest generalizability, being numbers, and it can be done. Some interesting numbers are 0, 1 (can be treated distinct from aces eg for around-the-corner-straights or high card), pip values greater than 10, negative pip values, non-integer pip values, and funny numbers like π, e, and i (imaginary numbers — could also use quaternians etc if you understand them I guess).
+
+The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these concepts for blackjack cards.
+
+### Face and special cards
+
+The standard 52 deck is pretty close to being a non-stripped deck (in the sense discussed above), but technically a full deck of cards has another suit between J and Q, a knight or cavalier, C. This up-generalization is a gimme, given that the english pattern was already stripped, and this unstrips it.
+
+You can also add jokers in. I guess they're wild, maybe? Or maybe there are other rules for them. But since we don't have any other wild card and jokers are conventionally wild in various card games (including in poker, primarily video poker, in "joker's wild" aka "joker poker") this seems like a good use for them. (Unless they become top trumps like in Euchre? But is a top trump in poker just a high card? Or maybe a high card that even beats regular hands?) Anyway, there could be one joker (of which many copies of one joker is an obvious consequence), or many jokers. I know of some decks with two non-identical jokers. Unicode has three jokers: red, white, and black. https://en.wikipedia.org/wiki/Joker_(playing_card) seems to attest that some popular european games require three (identical?) jokers. Mention is made of a "blue joker" in Poland. https://en.wikipedia.org/wiki/Zwickern seems to require 6 jokers, 2 each of 3 types. There is at least one card game that allegedly uses like 12 different jokers, but I wasn't able to find much info about it.
+
+You can also add the rules card and blank card? I'm not so sure about these. Maybe they're just a joker. Maybe it's more fun if they aren't. (I believe the video game _Dungeons & Degenerate Gamblers_ uses these; possibly also _Balatro_.)
+
+_Balatro_ is a video game that is sort of like video poker but with many jokers that have many special effects.
+
+I'm not sure if jokers should be suited or not. I guess by default they are unsuited. (Or maybe suited to a special star suit all their own.) Not clear to me what the benefit of suiting them would be. That's just another face card.
+
+Speaking of which, you can just add more regular face cards, I guess. Mechanically, this is quite simple, because they all have values determinable from their position (also in many games they all have identical values). But the art here is a real question mark, unless you just reuse the kings or whatver. (arbitrary art need)
+
+You can add the tarot. Or, rather, the trumps or "major arcana" of a tarot deck, which is already a playing card game for certain games. I am not sure how these would be of use in poker, besides of course in high card (and the fool could still excuse you from the hand). And maybe in forming a straight. Perhaps a trump beats all other conventional hands even as high card, thus ruining the entire game of poker? I have not actually played enough tarot games to know how having 20ish trumps even works.
+
+There is an extended tarot but I don't like it because it adds the new tarot cards into the middle, ruining the order. However, with technology we could accomodate this. Or just extend the tarot upwards a different way. (arbitrary art need)
+
+### Suits
+
+You could add more suits. I don't think there's a canonical set of symbols for the additional suits. This is actually a pretty good brief survey of some five-suited decks: https://deckofshields.com/five-suit-decks/ This wikipedia page also mentions a deck that just stole leaf from german decks https://en.wikipedia.org/wiki/Five-suit_bridge and this one mentions a fifth karuta suit of wheels.
+
+The face cards for the additional suits (unless you decide to be lazy and just reuse the face cards from the other suits (perhaps one randomly chosen from each), which would be reasonable) should be as distinct from each other as the face cards for the regular suits. Not much more, not much less. (arbitrary art need)
+
+(Would be funny to make one suit that goes completely crazy, though.)
+
+I don't think it would be right to use the latin suits (cups, etc) in conjunction with the germanic suits, given that they already correspond and thus perhaps are arguably "the same" suit in some way (just different renderings). Although you could argue that they were just used identically in their own parallel universes, so to speak. Actually, yeah, I've come round to this idea! It's the opposite argument I would make about, say, the German Ober versus the English Queen, but whatever. Not sure how they would be ordered, though. I guess all card games order the suits arbitrarily anyway, so this order doesn't matter much. It wouldn't make sense to make the spanish cups suit different from the italian cups suit, for example, but it does make sense to count the english clubs suit different from the german acorn suit even though they descend from the same thing. (Note: due to the english clover suit already having the name "clubs", the latin clubs suit must be "batons", which is also a pretty popular translation for them.)
+
+My comments about the Ober and the suits suggest to me that I should commission Modern Linear: 1. versions of all the suits (easy; that's just 6 icons or whatever) (this is a true variant that creates more cards) 2. variants of all the face cards so you can play with the Ober instead of the Queen, for example (this is just a stylistic variant that doesn't affect gameplay). Previously I had thought these were all part of the same theme variable, and since Modern Linear is themed on the english pattern i thought I didn't have to consider those other things. And I still might change my mind back, of course.
+
+Four-color suits (where eg diamonds gets a different color than hearts to make telling them apart more easy) is just an art-style/accessibility option, and will not be considered a new suit. (unless...? but nah probably not. unless there's some really fun game to be had if you have sub-suits made of colors.)
 
 ## Cards
 
 ### Overview
 
 #### Iclonic sets
-Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it. To shorten "iclonic set", I will sometimes use the term "iclonis".
+Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it. To shorten "iclonic set", I will sometimes use the term "iclonis". Which I will occassionally misspell "iconis" — but, hey, that isn't an English word yet either, so, let's just declare that to be a synonym of iclonis to keep ourselves safe.
 
 anyone can write text, in fact there's so much bespoke text that we can never sensibly encode it, but Unicode and the latin alphabet are iclonic sets.
 
@@ -41,7 +95,11 @@ Being public domain really helps your iclonicity, in my view. I don't think it's
 
 I mainly relied on Wikipedia pages for my research here. There is a vast hobbyist blogosphere, some blogs of which are even still alive, filled with information on particular decks and card games, but due to my level of abstraction in this endeavor this is usually not very useful to me. I have also considered joining the international association of card games to read their journals.
 
-I am also just aware of things by running into them in my life, and will mention these when appropiate, although likely they are not important.
+I am also just aware of things by running into them in my life, and will mention these when appropiate, although likely they are not important. Here are some common acronyms I might use on their own (I will try to remember to always _italicize_ them) with no explanation, explained here:
+* _DDG_: _Dungeons & Degenerate Gamblers_, a video game
+* _B_: _Balatro_, a video game
+* _DDGB_: _DDG_, and possibly also _B_ (I played a lot more of _DDG_ than _B_, so my memories of _B_ are often hazier)
+* TODO I think there was another one I thought I was going to reference later
 
 If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
 
@@ -59,6 +117,8 @@ Patterns (I'm not sure I understand this term nor how specific it is exactly)
 
 Styles are kind of like "fonts", but for playing cards. It would be misleading for me to call them "fonts" because cards typically also have printed text on them, which uses an actual font. TODO: I should figure out the precise taxonomy of playing card elements. Is style sub-pattern or a general term that includes pattern? Should I specify "art style"? "Look and feel"? "Dress"?
 
+Jokers usually have some wacky style chosen to express the individuality of the individual manifacturer. Sometimes they are identical or one is slightly different than the other (such as, being printed in color or having an extra logo) and might be higher or lower than the other in some card games that use them. They are usually based on jesters or clowns, but sometimes not.
+
 ##### Modern Linear
 I don't know the term (if there is one) for the minimalist-ornate style the modern english pattern commonly gets printed with. Did Bicycle invent it? Sadly their website is pretty uninterested in showing samples. In the interest of clarity I'm going to call this very-popular card style "Modern Linear" (I won't consistently capitalize it, but it is a proper noun, my name for this particular style). I love modern linear. The other styles are ok, but I modern linear is like crack to me. In this document I will repeated muse about creating a full, french-suited, english-patterned, generalized hyper-poker deck, in modern linear style, which I would then place into the public domain.
 
@@ -66,7 +126,7 @@ Modern linear is probably based on the tradition of woodblock printing playing c
 
 Modern linear is the basis of most modern playing cards, and most companies that sell playing cards have their own particular flavor of Modern Linear.
 
-### History
+### History (TODO)
 
 Chinese money cards, probably, although no one is sure as far as I know.
 
@@ -78,7 +138,7 @@ Regular playing cards & variants
 
 The tarot & variants
 
-
+The [Rider–Waite–Smith Tarot](https://en.wikipedia.org/wiki/Rider–Waite–Smith_Tarot) is a very nice tarot that has been very influential. It is latin-suited, and is largely used for mysticism. Its main infuriating idiosyncracy is swapping Justice and Strength (as is so often done in this modern world, har har) for its own perfideous reasons. I mean, presumably the deck still functions the same for actual games, which mostly just use the numerical value of the trump, but why would you ruin a perfectly good iclonis ordering like this?! (The answer is: spirituality reasons.) 
 
 Animal tarot
 
@@ -125,3 +185,7 @@ Oh... honorary mention here to Justine Lai's painting series "Join Or Die", whic
 The pieces of chess are iclonic, and could be graphically adapted to playing cards. There is some overlap here, for instance in "king" and "queen". Also, I think this gets you to chinese chess, which actually also comes from the chinese money cards above? There's a convulted history here, I think. The iclonic set of chess pieces also includes fairy chess pieces.
 
 Mah jong: seems iclonic, and gradptable. I don't know anything about mah jong, though. And I'm not super interested in it, although I wouldn't rule it out.
+
+[Zener cards](https://en.wikipedia.org/wiki/Zener_cards) these seem good for this purpose. They are famous enough, and as simple shapes cannot be under copyright. I think _DDG_ uses these, possibly also _B_.
+
+_DDGB_ have a lot of fun using things like the "get out of jail free" card from monopoly, and the "pot of greed" card from yu-gi-oh, and while these are fun and iconic, they are not part of a relevant iclonis so I'm not really going to consider them seriously.
