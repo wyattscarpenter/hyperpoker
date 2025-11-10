@@ -56,7 +56,7 @@ The Uno cards are actually kind of iclonic, even though as far as I know Uno is 
 
 Dice are iclonic, and they could be graphically adapted to playing cards (I'll call this gradaptable, for short) — both the normal pips of dice and the platonic solid dice — but I'm not really interested in that. (there are plenty of iclonic sets that could be graphically adapted to playing cards but are not particularly interesting to, like the four humors, the latin letters, etc).
 
-The stock characters of the commedia dell'arte are fairly iclonic, and could be adapted to playing cards. Some have been in the past! I would need to know a lot more about the characters in the commedia dell'arte
+The stock characters of the commedia dell'arte (hence: cda) are fairly iclonic, and could be adapted to playing cards. Some have been in the past! I would need to know a lot more about the characters in the commedia dell'arte. In particular, I would like to know if they form a closed set (by which I mean a finite known collection), since every time I see the cda mentioned it seems to be in conjunction with a new "stock character" thereof that I have never heard of before.
 
 The american presidents would be a fun idea to create a tarot-like playing card game for. That's before you even get into trump/Trump jokes lol.
 
