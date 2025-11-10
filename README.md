@@ -82,7 +82,9 @@ Four-color suits (where eg diamonds gets a different color than hearts to make t
 
 Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it. To shorten "iclonic set", I will sometimes use the term "iclonis" (plural "iclonises"). Which I will occassionally misspell "iconis" (pl. "iconises") — but, hey, that isn't an English word yet either, so, let's just declare that to be a synonym of iclonis to keep ourselves safe. Also, I keep finding myself wanting to write "icloni" and "iconi", so I'm making those alternative plural forms as well.
 
-anyone can write text, in fact there's so much bespoke text that we can never sensibly encode it, but Unicode and the latin alphabet are iclonic sets.
+Anyone can write text, in the sense of scribbling some stuff down, with or without some thought behind it; in fact there's so much bespoke text that we can never sensibly encode it, but only sets like Unicode and the latin alphabet are iclonic.
+
+In the same way, anyone can make cards as tokens and gamepieces, with whatever you want on them; and, indeed, many people have, and this is good. But they aren't going to be as iclonic as playing cards!
 
 the surprise of finding secret members and hidden structures
 
