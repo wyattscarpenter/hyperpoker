@@ -42,13 +42,15 @@ The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these
 
 ### Face and special cards
 
-The standard 52 deck is pretty close to being a non-stripped deck (in the sense discussed above), but technically a full deck of cards has another suit between J and Q, a knight or cavalier, C. This up-generalization is a gimme, given that the english pattern was already stripped, and this unstrips it.
+The standard 52 deck is pretty close to being a non-stripped deck (in the sense discussed above), but technically a full deck of cards has another suit between J and Q, a knight or cavalier, C. This up-generalization is a gimme, given that the english pattern was already stripped, and this unstrips it. TODO: am I sure about this? Offer some kind of citation...
 
 You can also add jokers in. I guess they're wild, maybe? Or maybe there are other rules for them. But since we don't have any other wild card and jokers are conventionally wild in various card games (including in poker, primarily video poker, in "joker's wild" aka "joker poker") this seems like a good use for them. (Unless they become top trumps like in Euchre? But is a top trump in poker just a high card? Or maybe a high card that even beats regular hands?) Anyway, there could be one joker (of which many copies of one joker is an obvious consequence), or many jokers. I know of some decks with two non-identical jokers. Unicode has three jokers: red, white, and black. https://en.wikipedia.org/wiki/Joker_(playing_card) seems to attest that some popular european games require three (identical?) jokers. Mention is made of a "blue joker" in Poland. https://en.wikipedia.org/wiki/Zwickern seems to require 6 jokers, 2 each of 3 types. There is at least one card game that allegedly uses like 12 different jokers, but I wasn't able to find much info about it.
 
 You can also add the rules card and blank card? I'm not so sure about these. Maybe they're just a joker. Maybe it's more fun if they aren't. (I believe the video game _Dungeons & Degenerate Gamblers_ uses these; possibly also _Balatro_.)
 
 _Balatro_ is a video game that is sort of like video poker but with many jokers that have many special effects.
+
+Mistigris was allegedly an early name for jokers when they were added to poker, and mistigris means pussy cat so hey we could have a cat card...
 
 I'm not sure if jokers should be suited or not. I guess by default they are unsuited. (Or maybe suited to a special star suit all their own.) Not clear to me what the benefit of suiting them would be. That's just another face card.
 
