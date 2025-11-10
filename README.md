@@ -30,6 +30,8 @@ I mainly relied on Wikipedia pages for my research here. There is a vast hobbyis
 
 I am also just aware of things by running into them in my life, and will mention these when appropiate, although likely they are not important.
 
+If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
+
 ### Concepts
 
 
@@ -37,10 +39,34 @@ Ranks
 
 Suits (and metasuits?)
 
-
+Patterns (I'm not sure I understand this term nor how specific it is exactly)
 
 
 #### Styles
+
+I don't know the term for the minimalist-ornate style the modern english pattern commonly gets printed with. Did Bicycle invent it? Sadly their website is pretty uninterested in showing samples. In the interest of clarity I'm going to call this very-popular card style "Modern Linear",
+
+### History
+
+Chinese money cards, probably, although no one is sure as far as I know.
+
+Probably some really ye olde middle eastern cards I don't really know anything about.
+
+Some old european playing cards that never really were in wide circulation
+
+Regular playing cards & variants
+
+The tarot & variants
+
+Jokers
+
+Rules/blank cards?
+
+More suits, colors, and jokers
+
+The joker vs the fool (convergent evolution?)
+
+I guess that's pretty much it.
 
 ### Various
 
