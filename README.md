@@ -22,9 +22,18 @@ It can be observed that ∞-poker would be unplayable in at least the respect th
 
 ### Overview
 
-Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it.
+#### Iclonic sets
+Due presumably to a latent mental illness, I find myself captivated by what I will call "iconic sets". In a colloquial sense of the term iconic, like how a celebrity is iconic of their medium if they are famous enough, sort of. To insist on this this definition unambiguously, I will use the term "iclonic" for it. To shorten "iclonic set", I will sometimes use the term "iclonis".
 
-four humors etc
+anyone can write text, in fact there's so much bespoke text that we can never sensibly encode it, but Unicode and the latin alphabet are iclonic sets.
+
+the surprise of finding secret members and hidden structures
+
+four humors etc. correspondences. opposites.
+
+One thing about iclonic sets is that they all have for their members abstracta in the first place. This salt shaker in front of me as I write is not the member of any iclonic set. But salt might be. (Indeed, it's part of the "salt and pepper" iclonic set.) No particular token card that you carry around is part of an iclonic set; the card is an instance of a class (say, Three Of Diamonds) that is part of the iclonic set (playing cards).
+
+Of course, this can get a little mixed up, and it is one of the little joyous amusing suprises in life (perhaps an "[improper heirarchy](https://www.youtube.com/watch?v=ar9WRwCiSr0)" joke as Tom 7 would say) when a *particular* thing ends up in an iclonic set, such as how the Rain Man in hanafuda is the particular man Ono no Michikaze, or how the face cards in the Paris pattern of playing cards are particular historical people (although that is less funny, because it itself forms a pattern).
 
 Being public domain really helps your iclonicity, in my view. I don't think it's a necessary condition (nor is it sufficient, for all you playing at home), but it does help — it's related to the idea that there are many tokens of this set being produced, and thus the set is very common.
 
