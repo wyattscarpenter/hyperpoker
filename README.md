@@ -4,6 +4,8 @@
 
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
+In this repo, I consistently use english suit abbreviations (AKQJ) and english suit names (Ace, King, Queen, Jack), but this is just a presentation detail and could be configured/adapted (for instance, if we imagine this as a software package you could set the UI language to German and get those translated into the german names for english suits, or (independently) you could set the face card family to German and get Ober, etc, as the guys on the card; the situation is similar for physical decks of cards, you just have to sell more of them).
+
 There are three main categories of thought I have about this topic. Cards, rules, and a hypothetical video game adaption of the rules and cards. Speaking of that video game, it's worth noting that this repo is *not* public domain and is proprietary to me. However, I would happily strike a deal with someone who actually wanted to take the time to implement this in a tangible saleable medium.
 
 ## Video game implementation (hypothetical)
