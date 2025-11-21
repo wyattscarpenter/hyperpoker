@@ -116,7 +116,7 @@ I think a lot of people become obsessed with icloni because they think they *are
 
 Being public domain really helps your iclonicity, in my view. I don't think it's a necessary condition (nor is it sufficient, for all you playing at home), but it does help — it's related to the idea that there are many tokens of this set being produced, and thus the set is very common.
 
-Many people get obsessed with tracking down all the individual decks of cards made, or all the games that are actually played with cards, but those things don't interest me. I suppose it's similar to how many people get obsessed with fonts (to the extent that font designer are making 100,000 identical helvetica fonts) but I'm more of a symbol obsessive and don't care much about the fonts. Just a different level of abstraction we find appealing, I suppose.
+Many people get obsessed with tracking down all the individual decks of cards made, or all the games that are actually played with cards, but those things don't interest me. (Except, of course, in that looking at all of the card games ever played helps me figure out what the cards are and do.) I suppose it's similar to how many people get obsessed with fonts (to the extent that font designer are making 100,000 identical helvetica fonts) but I'm more of a symbol obsessive and don't care much about the fonts. Just a different level of abstraction we find appealing, I suppose.
 
 ### Research resources
 
