@@ -118,6 +118,8 @@ Being public domain really helps your iclonicity, in my view. I don't think it's
 
 Many people get obsessed with tracking down all the individual decks of cards made, or all the games that are actually played with cards, but those things don't interest me. (Except, of course, in that looking at all of the card games ever played helps me figure out what the cards are and do.) I suppose it's similar to how many people get obsessed with fonts (to the extent that font designer are making 100,000 identical helvetica fonts) but I'm more of a symbol obsessive and don't care much about the fonts. Just a different level of abstraction we find appealing, I suppose.
 
+I'm unclear if the appeal of cards for cartomancy is also driven by the same underlying psychological attraction to cards that inspires people to obsess over and investigate them, and I don't know enough people like this to speculate. Those two bitter rival (or perhaps... lover?) camps, so divided in their attitudes, yet united in their love of the objects & perhaps iclonis.
+
 ### Research resources
 
 I mainly relied on Wikipedia pages for my research here. There is a vast hobbyist blogosphere, some blogs of which are even still alive, filled with information on particular decks and card games, but due to my level of abstraction in this endeavor this is usually not very useful to me. I have also considered joining the international association of card games to read their journals.
