@@ -100,6 +100,12 @@ the surprise of finding secret members and hidden structures
 
 many people are so captivated by icloni. four humors etc. correspondences. opposites.
 
+the curious case of why so many enlightenment thinkers are assigning each day of the calendar some guy or thing to thing about (I don't really feel the pull of this one)
+
+The days of the week are an iclonic set, but you won't get any secret members there, because the days of the week are used so practically that these would never survive (i guess). Unless maybe you had a fictional story or game with light time-travel elements where you shove more days before the end of the week to prolong your chance to complete something, maybe. Introducing... Saturday... 2!
+
+(should I explain the reference to the peggle 2 E3 presentation? hmm)
+
 One thing about iclonic sets is that they all have for their members abstracta in the first place. This salt shaker in front of me as I write is not the member of any iclonic set. But salt might be. (Indeed, it's part of the "salt and pepper" iclonic set.) No particular token card that you carry around is part of an iclonic set; the card is an instance of a class (say, Three Of Diamonds) that is part of the iclonic set (playing cards).
 
 Of course, this can get a little mixed up, and it is one of the little joyous amusing suprises in life (perhaps an "[improper heirarchy](https://www.youtube.com/watch?v=ar9WRwCiSr0)" joke as Tom 7 would say) when a *particular* thing ends up in an iclonic set, such as how the Rain Man in hanafuda is the particular man Ono no Michikaze, or how the face cards in the Paris pattern of playing cards are particular historical people (although that is less funny, because it itself forms a pattern).
