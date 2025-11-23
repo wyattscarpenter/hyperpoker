@@ -116,9 +116,9 @@ One thing about iclonic sets is that they all have for their members abstracta i
 
 Of course, this can get a little mixed up, and it is one of the little joyous amusing suprises in life (perhaps an "[improper heirarchy](https://www.youtube.com/watch?v=ar9WRwCiSr0)" joke as Tom 7 would say) when a *particular* thing ends up in an iclonic set, such as how the Rain Man in hanafuda is the particular man Ono no Michikaze, or how the face cards in the Paris pattern of playing cards are particular historical people (although that is less funny, because it itself forms a pattern).
 
-A lot of iclonises, maybe all of them, are pretty much just made up. Conventional. Even if they are naturally occurring, our decision to group them together is usually somewhat arbitrary. For example: besides their names, the cardinal directions are fairly described as naturally occurring. However, the fact that we decided we *wanted* a set that has orthogonal axes instead of, say, six axes aligned to north, is still pretty much our arbitrary, conventional choice. There are a couple iclonises I think are completely non-conventional, like {true and false}. We could have invented a system like {true, kinda, and false}, but... get real. That one was given to us by God. And so with the primes, except for the question of whether 1 is a prime. But most of them, most icloni are just a whimsical collection of objects brought together by convention, like {salt and pepper} or the months of the year.
+A lot of iclonises, maybe all of them, are pretty much just made up. "Conventional." Even if they are naturally occurring things, our decision to group them together is usually somewhat arbitrary. For example: besides their names, the cardinal directions are fairly described as naturally occurring. However, the fact that we decided we *wanted* a set that has orthogonal axes instead of, say, six axes aligned to north, is still pretty much our arbitrary, conventional choice. There are a couple iclonises I think are completely non-conventional, like {true and false}. We could have invented a system like {true, kinda, and false}, but... get real. That one was given to us by God. And so with the primes, except for the question of whether 1 is a prime. But most of them, most icloni are just a whimsical collection of objects brought together by convention, like {salt and pepper} or the months of the year.
 
-I think a lot of people become obsessed with icloni because they think they *aren't* conventional. The fact that you can map the four humors to the four cardinal directions helps you divine the will of God, in their mistaken view. But me? I just like 'em!
+I think a lot of people become obsessed with icloni because they think they *aren't* conventional. The fact that you can map the four humors to the four cardinal directions helps you divine the will of God, in their mistaken view. But me? Nah. I just like 'em!
 
 Being public domain really helps your iclonicity, in my view. I don't think it's a necessary condition (nor is it sufficient, for all you playing at home), but it does help — it's related to the idea that there are many tokens of this set being produced, and thus the set is very common.
 
@@ -141,6 +141,10 @@ If I don't link to some source, you can pretty much just assume I'm reading it o
 ### on the concept of generalization
 
 when you "generalize" something, you always have to make choices. I feel like people typically make those choices pretty poorly and in unintuitive ways, but sometimes they do a pretty good job. anyway, My point is that it's usually a creative endeavor of some sort, or at least Not entirely composed of choices dictated by strict logical necessity. You have to choose which features are salient and should continue along and which are not, and how they continue along. some ways of choosing are better than others.
+
+### on the concept of "correspondence"
+
+I have to say something about correspondence here, given how much I rely on the concept of various things corresponding, and this also might be a good place to note how playing cards are so useful because they can correspond to so many different things. That's actually how all card games work.
 
 ### Concepts
 
