@@ -4,6 +4,8 @@
 
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
+This is tentatively assembling itself into a monograph that I am tentatively titling "On The Composition And Generalization Of Playing Cards". Although at present it has much more the character of a collection of notes.
+
 In this repo, I consistently use english suit abbreviations (AKQJ) and english suit names (Ace, King, Queen, Jack), but this is just a presentation detail and could be configured/adapted (for instance, if we imagine this as a software package you could set the UI language to German and get those translated into the german names for english suits, or (independently) you could set the face card family to German and get Ober, etc, as the guys on the card; the situation is similar for physical decks of cards, you just have to sell more of them).
 
 This document assumes a fair amount of basic knowledge about playing cards. for instance, I don't explain what a playing card is. I also don't explain what the index of a playing card is. however, the information I'm expecting you to know is by no means arcane, and a basic introduction to playing cards that goes anywhere in depth at all should cover them. TODO: format this paragraph.
