@@ -2,6 +2,8 @@
 
 > I ’ard’ardly know ’er’er
 
+> “What's a good deck of playing cards for someone just getting into playing cards?”
+
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
 This is tentatively assembling itself into a monograph that I am tentatively titling "On The Composition And Generalization Of Playing Cards". Although at present it has much more the character of a collection of notes.
