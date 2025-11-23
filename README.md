@@ -6,9 +6,9 @@ This repo contains various ideas I have had regarding hyperpoker, which I also c
 
 In this repo, I consistently use english suit abbreviations (AKQJ) and english suit names (Ace, King, Queen, Jack), but this is just a presentation detail and could be configured/adapted (for instance, if we imagine this as a software package you could set the UI language to German and get those translated into the german names for english suits, or (independently) you could set the face card family to German and get Ober, etc, as the guys on the card; the situation is similar for physical decks of cards, you just have to sell more of them).
 
-This document assumes a fair amount of basic knowledge about playing cards. for instance, I don't explain what a playing card is. I also don't explain what the index of a playing card is. however, the information I'm expecting you to know is by no means arcane, and a basic introduction to playing cards that goes anywhere in depth at all should cover them.
+This document assumes a fair amount of basic knowledge about playing cards. for instance, I don't explain what a playing card is. I also don't explain what the index of a playing card is. however, the information I'm expecting you to know is by no means arcane, and a basic introduction to playing cards that goes anywhere in depth at all should cover them. TODO: format this paragraph.
 
-There are three main categories of thought I have about this topic. Cards, rules, and a hypothetical video game adaption of the rules and cards. Speaking of that video game, it's worth noting that this repo is *not* public domain and is proprietary to me. However, I would happily strike a deal with someone who actually wanted to take the time to implement this in a tangible saleable medium.
+There are three main categories of thought I have about this topic. Cards, rules, and a hypothetical video game adaption of the rules and cards. Speaking of that video game, it's worth noting that this repo is *not* public domain; it is proprietary to me. However, I would happily strike a deal with someone who actually wanted to take the time to implement this in a tangible saleable medium.
 
 ## Video game implementation (hypothetical)
 
@@ -46,7 +46,7 @@ The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these
 
 ### Face and special cards
 
-The standard 52 deck is pretty close to being a non-stripped deck (in the sense discussed above), but technically a fuller deck of cards has another suit between J and Q, a knight or cavalier, C. That's for use in playing tarot games, specifically, which also unrelatedly adds all the tarot-exclusive trump cards. This up-generalization is a gimme, given that the english pattern was already stripped, compared to the tarot deck, and this unstrips it. See, for example, the rank listings in the decks listed here: https://en.wikipedia.org/wiki/Tarot#French-suited_decks
+The standard 52 deck is pretty close to being a non-stripped deck (in the sense discussed above), but technically a fuller deck of cards has another suit between J and Q, a knight or cavalier, C. That's for use in playing tarot games, specifically, which also unrelatedly adds all the tarot-exclusive trump cards. This up-generalization is a gimme, given that the english pattern was already stripped, compared to the tarot deck, and this unstrips it. See, for example, the rank listings in the decks listed here: https://en.wikipedia.org/wiki/Tarot#French-suited_decks. The idea that cavaliers and queens can co-exist in the same deck, when probably in other contexts they might be regarded as equivalent ranks in different country card art variants, does give me pause and deserves some investigation TODO.
 
 You can also add jokers in. I guess they're wild, maybe? Or maybe there are other rules for them. But since we don't have any other wild card and jokers are conventionally wild in various card games (including in poker, primarily video poker, in "joker's wild" aka "joker poker") this seems like a good use for them. (Unless they become top trumps like in Euchre? But is a top trump in poker just a high card? Or maybe a high card that even beats regular hands?) Anyway, there could be one joker (of which many copies of one joker is an obvious consequence), or many jokers. I know of some decks with two non-identical jokers. Unicode has three jokers: red, white, and black. https://en.wikipedia.org/wiki/Joker_(playing_card) seems to attest that some popular european games require three (identical?) jokers. Mention is made of a "blue joker" in Poland. https://en.wikipedia.org/wiki/Zwickern seems to require 6 jokers, 2 each of 3 types. There is at least one card game that allegedly uses like 12 different jokers, but I wasn't able to find much info about it.
 
@@ -59,6 +59,8 @@ Mistigris was allegedly an early name for jokers when they were added to poker, 
 I'm not sure if jokers should be suited or not. I guess by default they are unsuited. (Or maybe suited to a special star suit all their own.) Not clear to me what the benefit of suiting them would be. That's just another face card.
 
 Speaking of which, you can just add more regular face cards, I guess. Mechanically, this is quite simple, because they all have values determinable from their position (also in many games they all have identical values). But the art here is a real question mark, unless you just reuse the kings or whatver. (arbitrary art need) There are also a lot of names of ranks of nobility, like viscount, you could plunder for face card rank names (although presumably they would rank under the king and queen, realistically, so, that could get confusing). And given English names, such as "jack", come to think of it. Eventually you'll run out of latin letters to be the symbols for the rank, after which, idk, you just start using other unicode characters. Or you do something boring like just making them K2, K3... . This is boring, but at least has the benefit of being sort of funny, in a way.
+
+Since adding C interpolates anyway, you could interpolate more and make the chess pieces all face cards between King and Jack. I'm not sure if this reference would work in all languages (Maybe they call bishops cavaliers or something silly like that, which would make bishop not free for face card use.)
 
 You can add the tarot. Or, rather, the trumps or "major arcana" of a tarot deck, which is already a playing card game for certain games. I am not sure how these would be of use in poker, besides of course in high card (and the fool could still excuse you from the hand). And maybe in forming a straight. Perhaps a trump beats all other conventional hands even as high card, thus ruining the entire game of poker? I have not actually played enough tarot games to know how having 20ish trumps even works.
 
@@ -133,6 +135,10 @@ I am also just aware of things by running into them in my life, and will mention
 * _I_: _Inscryption_, a video game
 
 If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
+
+### on the concept of generalization
+
+when you "generalize" something, you always have to make choices. I feel like people typically make those choices pretty poorly and in unintuitive ways, but sometimes they do a pretty good job. anyway, My point is that it's usually a creative endeavor of some sort, or at least Not entirely composed of choices dictated by strict logical necessity. You have to choose which features are salient and should continue along and which are not, and how they continue along. some ways of choosing are better than others.
 
 ### Concepts
 
