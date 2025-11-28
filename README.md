@@ -46,7 +46,7 @@ The cards in the deck can be generalized down from the normal 52, creating what 
 
 The numbered cards instantly suggest generalizability, being numbers, and it can be done. Some interesting numbers are 0, 1 (can be treated distinct from aces eg for around-the-corner-straights or high card), pip values greater than 10, negative pip values, non-integer pip values, and funny numbers like π, e, and i (imaginary numbers — could also use quaternians etc if you understand them I guess).
 
-The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these concepts for blackjack cards.
+The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these concepts for blackjack cards. However, I've always found it annoying to have to differentiate between aces and 1s, after a lifetime of practicing the opposite rule.
 
 Similarly, the game of Rook https://en.wikipedia.org/wiki/Rook_(card_game) just goes ahead and has a 1-13 deck (and also 14, for some reason), in case you have religious objections to the regular deck (?! those Puritans sure were strange). It also adds a Rook card, which I suppose is conceptually a themed joker, as is found in many decks of playing cards... I suppose.
 
