@@ -48,6 +48,8 @@ The numbered cards instantly suggest generalizability, being numbers, and it can
 
 The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these concepts for blackjack cards.
 
+Similarly, the game of Rook https://en.wikipedia.org/wiki/Rook_(card_game) just goes ahead and has a 1-13 deck (and also 14, for some reason), in case you have religious objections to the regular deck (?! those Puritans sure were strange). It also adds a Rook card, which I suppose is conceptually a themed joker, as is found in many decks of playing cards... I suppose.
+
 ### Face and special cards
 
 The standard 52 deck is pretty close to being a non-stripped deck (in the sense discussed above), but technically a fuller deck of cards has another suit between J and Q, a knight or cavalier, C. That's for use in playing tarot games, specifically, which also unrelatedly adds all the tarot-exclusive trump cards. This up-generalization is a gimme, given that the english pattern was already stripped, compared to the tarot deck, and this unstrips it. See, for example, the rank listings in the decks listed here: https://en.wikipedia.org/wiki/Tarot#French-suited_decks. The idea that cavaliers and queens can co-exist in the same deck, when probably in other contexts they might be regarded as equivalent ranks in different country card art variants, does give me pause and deserves some investigation TODO.
