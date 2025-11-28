@@ -275,3 +275,19 @@ https://en.wikipedia.org/wiki/Set_(card_game) I have fond memories of this excel
 https://en.wikipedia.org/wiki/Set_Cubed curious...
 
 https://en.wikipedia.org/wiki/Five_Crowns_(card_game) I don't think this is novel for my purposes (it just has a fifth suit, star), but it does seem kind of like a fun game I'd like to play.
+
+https://en.wikipedia.org/wiki/Xactika
+
+https://en.wikipedia.org/wiki/Haggis_(card_game)
+
+https://en.wikipedia.org/wiki/Gnav
+
+https://en.wikipedia.org/wiki/Coucou
+
+https://en.wikipedia.org/wiki/Touring_(card_game)
+
+https://en.wikipedia.org/wiki/Mille_Bornes
+
+https://en.wikipedia.org/wiki/Kille_(card_game)
+
+https://en.wikipedia.org/wiki/Cucc%C3%B9
