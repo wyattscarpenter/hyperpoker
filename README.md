@@ -245,3 +245,31 @@ Mah jong: seems iclonic, and gradptable. I don't know anything about mah jong, t
 [Zener cards](https://en.wikipedia.org/wiki/Zener_cards) these seem good for this purpose. They are famous enough, and as simple shapes cannot be under copyright. I think _DDG_ uses these, possibly also _B_.
 
 _DDGB_ have a lot of fun using things like the "get out of jail free" card from monopoly, and the "pot of greed" card from yu-gi-oh, and while these are fun and iconic, they are not part of a relevant iclonis so I'm not really going to consider them seriously.
+
+## TODO: things I'd like to look into more
+
+https://en.wikipedia.org/wiki/Tarocco_Siciliano
+
+https://en.wikipedia.org/wiki/Tarocco_Bolognese
+
+https://en.wikipedia.org/wiki/Sheepshead_(card_game)
+
+https://en.wikipedia.org/wiki/Doppelkopf
+
+https://en.wikipedia.org/wiki/ASS_Altenburger
+
+https://en.wikipedia.org/wiki/Tarot#French-suited_decks
+
+https://en.wikipedia.org/wiki/Wizard_(card_game), whence this neat-looking wizard card https://www.labyrinthdc.com/wizard-card.html
+
+https://en.wikipedia.org/wiki/Knock-out_whist
+
+https://en.wikipedia.org/wiki/Swiss_Tarot
+
+https://en.wikipedia.org/wiki/Zwickern this is the card game with a lot of jokers (6 jokers), and I'd like to know if the jokers all look different or what.
+
+https://en.wikipedia.org/wiki/Set_(card_game) I have fond memories of this excellent game, but i don't think enough people know about it for it to be iclonic.
+
+https://en.wikipedia.org/wiki/Set_Cubed curious...
+
+https://en.wikipedia.org/wiki/Five_Crowns_(card_game) I don't think this is novel for my purposes (it just has a fifth suit, star), but it does seem kind of like a fun game I'd like to play.
