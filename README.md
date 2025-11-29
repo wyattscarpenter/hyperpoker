@@ -263,6 +263,7 @@ https://en.wikipedia.org/wiki/The_Lesser_Key_of_Solomon
 https://en.wikipedia.org/wiki/Shem_HaMephorash#Reuchlin's_angels_of_the_Shem_HaMephorash
 https://en.wikipedia.org/wiki/Pseudomonarchia_Daemonum
 https://en.wikipedia.org/wiki/Classification_of_demons#Binsfeld's_classification
+https://en.wikipedia.org/wiki/Dictionnaire_Infernal
 
 ## TODO: things I'd like to look into more
 
