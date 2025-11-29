@@ -4,6 +4,8 @@
 
 > “What's a good deck of playing cards for someone just getting into playing cards?”
 
+> “Extend the playing cards? Good heavens, for what purpose would one do that?” —me later, probably
+
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
 This is tentatively assembling itself into a monograph that I am tentatively titling "On The Composition And Generalization Of Playing Cards". Although at present it has much more the character of a collection of notes.
@@ -94,7 +96,7 @@ The order of suits is not consistent between card games. One of the most popular
 
 Firstly, color. I think, for purely aesthetic reasons, an ordering of suits would not make a black suit touch a black suit nor a red suit touch a red suit. This narrows it down to exactly these possible patterns: all permutations of RBRB and BRBR. For instance, arbitrarily as an example, ♣️♦️♠️♥️. Admittedly, this is less of a concern in a four-color deck of suitably different colors (pun intended, although not very good).
 
-Secondly, and more importantly, since this uniquely determines the suits, the graphical menmonic. The order is ♠️♥️♣️♦️ because there is one point, two lobes, three lobes, and four points. This also makes diamonds the most valuable suit, which kind of makes sense (although, then again, kind of not). Luckily, this comports with the color requirement. So, I think this will be the canonical order of suits as far as I'm concerned. This also immediately suggests a star ⭐ as a natural 5th suit. It has five points, you see! And then maybe the latin suits after that (possibly plus a wacky fifth suit of its own), and the german suits, and various obscure suits, and then random shapes and symbols... for some reason I feel I should mention "gear" here. Maybe unicode punctuation and emoji are suitable for suits, and unicode letter characters more suitable for indices? "Ah, the 吴 of 🍖", people will say. "Of course."
+Secondly, and more importantly, since this uniquely determines the suits, the graphical menmonic. The order is ♠️♥️♣️♦️ because there is one point, two lobes, three lobes, and four points. This also makes diamonds the most valuable suit, which kind of makes sense (although, then again, kind of not). Luckily, this comports with the color requirement. So, I think this will be the canonical order of suits as far as I'm concerned. This also immediately suggests a star ⭐ as a natural 5th suit. It has five points, you see! And then maybe the latin suits after that (possibly plus a wacky fifth suit of its own), and the german suits, and various obscure suits, and then random shapes and symbols... for some reason I feel I should mention "gear" here. Maybe unicode punctuation and emoji are suitable for suits, and unicode letter characters more suitable for indices? "Ah, the 吴 of 🍖", people will say. "Of course." (Of course, much like it's somewhat funny to have the faces abve king be simply "king 2", etc, so it could be funny to have the suits above diamond just be "diamond 2" and so on.
 
 This graphical mnemonic establishes a correspondence between the numbers 1–5 and five suits. After the 5th suit the mnemonic breaks down pretty quickly, unless the 6th is hexagons (a powerful shape) or a flower with n pedals or a crown with n points etc, but at some point there's gonna have to be a suit symbol that isn't graphically related to a number like that, I think. Also, circles could be the 0th suit (0 points) or just another random suit; I've never been a huge fan of having a 0th element in things so I guess I wouldn't do that. I think _DDG_ uses circles for pips of a null suit (which makes sense in that game because the suits have powers, so a null suit pip does normal stuff but with no bonus). Having this order 1–5 doesn't actually determine what beats what. Is 1 the first highest suit or the first lowest suit? For myself, I'm partial to the idea of quantity, so I think, eg, 4>3, and the fourth suit should beat the third suit. This has the added benefit that additional added suits will beat eariler suits, which probably affords slightly more exciting possibilities than if the new suits that are added are worse and worse. So, spades would be the lowliest suit (like a humble ditch-digger, perhaps) and hearts would beat it, and hearts would be beaten in turn by clubs, and so on.
 
@@ -250,7 +252,17 @@ Mah jong: seems iclonic, and gradptable. I don't know anything about mah jong, t
 
 [Zener cards](https://en.wikipedia.org/wiki/Zener_cards) these seem good for this purpose. They are famous enough, and as simple shapes cannot be under copyright. I think _DDG_ uses these, possibly also _B_.
 
-_DDGB_ have a lot of fun using things like the "get out of jail free" card from monopoly, and the "pot of greed" card from yu-gi-oh, and while these are fun and iconic, they are not part of a relevant iclonis so I'm not really going to consider them seriously.
+_DDGB_ has a lot of fun using things like the "get out of jail free" card from monopoly, and the "pot of greed" card from yu-gi-oh, and while these are fun and iconic, they are not part of a relevant iclonis so I'm not really going to consider them seriously.
+
+The astrology signs are iclonic, and also have a secret extra sign, Ophiuchus, neat. Could be useful. Of course, people have already tried to line up the tarot and astronomy before.
+
+Alchemy signs are neat.
+
+Seems kind of insensitive to people who actually believe in this stuff (they tend to believe it's very bad), but the lists of demons do tend to have interesting illustrations, names, and sigils that make them iclonic and possibly gradptable to a whole flight of playing cards, 72 secret face cards above the normal ones... and then a corrsponding 72 angel cards above them, I guess. Here are some relevant links I haven't looked into much: https://en.wikipedia.org/wiki/List_of_demons_in_the_Ars_Goetia
+https://en.wikipedia.org/wiki/The_Lesser_Key_of_Solomon
+https://en.wikipedia.org/wiki/Shem_HaMephorash#Reuchlin's_angels_of_the_Shem_HaMephorash
+https://en.wikipedia.org/wiki/Pseudomonarchia_Daemonum
+https://en.wikipedia.org/wiki/Classification_of_demons#Binsfeld's_classification
 
 ## TODO: things I'd like to look into more
 
@@ -266,7 +278,7 @@ https://en.wikipedia.org/wiki/ASS_Altenburger
 
 https://en.wikipedia.org/wiki/Tarot#French-suited_decks
 
-https://en.wikipedia.org/wiki/Wizard_(card_game), whence this neat-looking wizard card https://www.labyrinthdc.com/wizard-card.html
+https://en.wikipedia.org/wiki/Wizard_(card_game), whence this neat-looking wizard card https://www.labyrinthdc.com/wizard-card.html (which would be natural to use as a face card)
 
 https://en.wikipedia.org/wiki/Knock-out_whist
 
