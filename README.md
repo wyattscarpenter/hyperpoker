@@ -54,7 +54,7 @@ The cards in the deck can be generalized down from the normal 52, creating what 
 
 ### Numbered cards
 
-The numbered cards instantly suggest generalizability, being numbers, and it can be done. Some interesting numbers are 0, 1 (can be treated distinct from aces eg for around-the-corner-straights or high card), pip values greater than 10, negative pip values, non-integer pip values, and funny numbers like π, e, and i (imaginary numbers — could also use quaternians etc if you understand them I guess).
+The numbered cards instantly suggest generalizability, being numbers, and it can be done. Some interesting numbers are 0, 1 (can be treated distinct from aces eg for around-the-corner-straights or high card), pip values greater than 10, negative pip values, non-integer pip values, and funny numbers like π, e, and i (imaginary numbers — could also use quaternians etc if you understand them I guess). A
 
 The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these concepts for blackjack cards. However, I've always found it annoying to have to differentiate between aces and 1s, after a lifetime of practicing the opposite rule.
 
@@ -159,6 +159,8 @@ I'm unclear if the appeal of cards for cartomancy is also driven by the same und
 ### Research resources
 
 I mainly relied on Wikipedia pages for my research here. There is a vast hobbyist blogosphere, some blogs of which are even still alive, filled with information on particular decks and card games, but due to my level of abstraction in this endeavor this is usually not very useful to me. I have also considered joining the international association of card games to read their journals.
+
+So, keep in mind that this "research" is mostly not primary-based research where I hunt down cards, nor even secondary-based research where I read research papers, but tertiary-based research where I read Wikipedia. Still counts, though! And still makes me know more about playing card history than almost everyone in the world.
 
 I am also just aware of things by running into them in my life, and will mention these when appropiate, although likely they are not important. Here are some common acronyms I might use on their own (I will try to remember to always _italicize_ them) with no explanation, explained here:
 * _DDG_: _Dungeons & Degenerate Gamblers_, a video game
