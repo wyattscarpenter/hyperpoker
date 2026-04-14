@@ -226,7 +226,7 @@ As far as I know there is no Modern Linear rendition of the tarot. Guess I'll ha
 
 Now that Minchiate has pointed it out: I have no idea why the classic tarot includes only 3 of the 4 cardinal virtues (an iclonic set! albeit one I don't really care about), eschewing Prudence but keeping Fortitude, Temperance, Justice.
 
-Hanafuda cards (note that hanafuda cards canonically have 13 *suits* and 4 *ranks*, which is crazy but whatever). Also those crazy poem cards I guess. Also it's weird how the japanese had no playing cards until the portguese imported them or whatever even though they life right next to China.
+Hanafuda cards (note that hanafuda cards canonically have 13 *suits* and 4 *ranks*, which is crazy but whatever). Also those crazy poem cards, I guess: https://en.wikipedia.org/wiki/Uta-garuta. Also it's weird how the japanese had no playing cards until the portguese imported them or whatever even though they live right next to China.
 
 I think there are asian regional variants of these cards, and maybe their own cards (descended from Chinese money cards), but I don't know much about them.
 
@@ -240,9 +240,11 @@ The joker vs the fool (convergent evolution?)
 
 I guess that's pretty much it.
 
+It would be cool to have a "Jack of Mondrains", like in the style of the painter cross with the style of regular face cards. Did some game do this? Maybe DDG?
+
 ### Various
 
-Loteria isn't a card game exactly, but it's perfect for me.
+Lotería isn't a card game exactly, as we usually think of them, but it's perfect for me. As far as I can tell, Loteria is typically used to play a game of basically no sophitication, which is basically just bingo. It's a little bit more entertaining than bingo because it has pictures and a cantor reads out clues that are often puns; these clues often do not seem very hard, I don't think it's like a gameplay challenge, just additional interest. I've only ever used the Don Clemente cards, or cards based on those cards,  TODO it even wikilinks iconic (which is linked to "Secular icon" which redirects to https://en.wikipedia.org/wiki/Cultural_icon TODO connection to the tarot. There is some overlap with the tarot, maybe it was even based on it. Would be interesting to make a superset and claim that el sol is different from the tarot sun lol. But also, you could just claim that they overlap a bit... then again, I mean, it's not like I'd redraw all of the tarot and all of the loteria in each other's styles to justify the claim that they truely did overlap, if you feel me. TODO  TODO other variations are basically unknown to me. https://en.wikipedia.org/wiki/Loter%C3%ADa tells me https://en.wikipedia.org/wiki/Bai_choi is similar, and from there you start hearing about Tứ Sắc, Tam cúc, hô bài chòi, and everything in https://en.wikipedia.org/wiki/Bai_choi#See_also
 
 I keep looking up Karnöffel because of the hogs in the video game _Inscryption_, and then I realize it's unsuitable for some reason (which reason I usually forget).
 
@@ -270,7 +272,7 @@ Oh... honorary mention here to Justine Lai's painting series "Join Or Die", whic
 
 The pieces of chess are iclonic, and could be graphically adapted to playing cards. There is some overlap here, for instance in "king" and "queen". Also, I think this gets you to chinese chess, which actually also comes from the chinese money cards above? There's a convulted history here, I think. The iclonic set of chess pieces also includes fairy chess pieces, or at least the consistently-used new chess symbols from fairy chess. You could posit a possible chess+card family of face cards like king queen bishop cavalier (knight) rook jack (perhaps Jack=pawn, since he's a farmer or a knave or whatever), which would be somewhat satisfying. Since the KQJ→KQCJ move is already so jarring, maybe inserting more later is still fine. The iclonic chess piece _symbols_ would not really come into it, although they could be used as a graphical variant. This also opens up the rabbithole of all the varieties of chess in the world & its nations.
 
-Mah jong: seems iclonic, and gradptable. I don't know anything about mah jong, though. And I'm not super interested in it, although I wouldn't rule it out.
+Mah jong: seems iclonic, and gradptable. I don't know anything about mah jong, though. And I'm not super interested in it, although I wouldn't rule it out. Actually, it is in the lineage of regular playing cards.
 
 [Zener cards](https://en.wikipedia.org/wiki/Zener_cards) these seem good for this purpose. They are famous enough, and as simple shapes cannot be under copyright. I think _DDG_ uses these, possibly also _B_.
 
