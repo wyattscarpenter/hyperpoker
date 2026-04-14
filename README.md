@@ -246,7 +246,18 @@ It would be cool to have a "Jack of Mondrains", like in the style of the painter
 
 ### Various
 
-Lotería isn't a card game exactly, as we usually think of them, but it's perfect for me. As far as I can tell, Loteria is typically used to play a game of basically no sophitication, which is basically just bingo. It's a little bit more entertaining than bingo because it has pictures and a cantor reads out clues that are often puns; these clues often do not seem very hard, I don't think it's like a gameplay challenge, just additional interest. I've only ever used the Don Clemente cards, or cards based on those cards,  TODO it even wikilinks iconic (which is linked to "Secular icon" which redirects to https://en.wikipedia.org/wiki/Cultural_icon TODO connection to the tarot. There is some overlap with the tarot, maybe it was even based on it. Would be interesting to make a superset and claim that el sol is different from the tarot sun lol. But also, you could just claim that they overlap a bit... then again, I mean, it's not like I'd redraw all of the tarot and all of the loteria in each other's styles to justify the claim that they truely did overlap, if you feel me. TODO  TODO other variations are basically unknown to me. https://en.wikipedia.org/wiki/Loter%C3%ADa tells me https://en.wikipedia.org/wiki/Bai_choi is similar, and from there you start hearing about Tứ Sắc, Tam cúc, hô bài chòi, and everything in https://en.wikipedia.org/wiki/Bai_choi#See_also
+Lotería isn't a card game exactly, as we usually think of them, but it's perfect for me. As far as I can tell, Loteria is typically used to play a game of basically no sophitication, which is basically just bingo. It's a little bit more entertaining than bingo because it has pictures and a cantor reads out clues that are often puns; these clues often do not seem very hard, I don't think it's like a gameplay challenge, just additional interest. I've only ever used the Don Clemente cards, or cards based on those cards,  TODO it even wikilinks iconic (which is linked to "Secular icon" which redirects to https://en.wikipedia.org/wiki/Cultural_icon TODO connection to the tarot. There is some overlap with the tarot, maybe it was even based on it. Would be interesting to make a superset and claim that el sol is different from the tarot sun lol. But also, you could just claim that they overlap a bit... then again, I mean, it's not like I'd redraw all of the tarot and all of the loteria in each other's styles to justify the claim that they truely did overlap, if you feel me. TODO  TODO other variations are basically unknown to me. https://en.wikipedia.org/wiki/Loter%C3%ADa tells me https://en.wikipedia.org/wiki/Bai_choi is similar, and from there you start hearing about Tứ Sắc, Tam cúc, hô bài chòi, and everything in https://en.wikipedia.org/wiki/Bai_choi#See_also, which I will copy here for completeness: {
+
+Lô Tô [vi] - Vietnamese Bingo
+Xẩm - a type of Vietnamese folk music
+Bài Bất / Bài Tổ Tôm - a traditional Vietnamese money-suited card game
+Bài Tứ Sắc - a traditional Vietnamese four-color chess card game
+Bài Tam Cúc - a traditional Vietnamese two-color chess card game
+Mahjong - used to play traditional Vietnamese card games
+Lotería - a Bingo game from Mexico that also use cards and a singer
+UNESCO Intangible Cultural Heritage
+
+}
 
 I keep looking up Karnöffel because of the hogs in the video game _Inscryption_, and then I realize it's unsuitable for some reason (which reason I usually forget).
 
@@ -329,8 +340,30 @@ https://en.wikipedia.org/wiki/Coucou
 
 https://en.wikipedia.org/wiki/Touring_(card_game)
 
-https://en.wikipedia.org/wiki/Mille_Bornes
+https://en.wikipedia.org/wiki/Mille_Bornes (could these be iclonic and widely-known enough to incorporate?)
 
 https://en.wikipedia.org/wiki/Kille_(card_game)
 
 https://en.wikipedia.org/wiki/Cucc%C3%B9
+
+https://en.wikipedia.org/wiki/French-suited_playing_cards#History
+
+https://steve-p.org/cards/ChML.html
+
+https://en.wikipedia.org/wiki/Chinese_playing_cards#Earliest_references
+
+https://en.wikipedia.org/wiki/Chinese_playing_cards#Wine_cards
+
+https://en.wikipedia.org/wiki/Eight_Immortals
+
+https://en.wikipedia.org/wiki/Eight_Immortals_of_the_Wine_Cup
+
+https://en.wikipedia.org/wiki/Eight_Immortals_(disambiguation)
+
+https://forum.tarothistory.com/viewtopic.php?t=2767
+
+https://www.arnellart.com/museodeitarocchi/msdk47.htm
+
+https://www.giovannipelosini.com/en/2015/01/i-tarocchi-appropriati/
+
+
