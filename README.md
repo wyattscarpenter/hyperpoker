@@ -74,13 +74,21 @@ The cards in the deck can be generalized down from the normal 52, creating what 
 
 ### Numbered cards
 
-The numbered cards instantly suggest generalizability, being numbers, and it can be done. Some interesting numbers are 0, 1 (can be treated distinct from aces eg for around-the-corner-straights or high card), pip values greater than 10, negative pip values, non-integer pip values, and funny numbers like π, e, and i (imaginary numbers — could also use quaternians etc if you understand them I guess). A
+The numbered cards instantly suggest generalizability, being numbers, and it can be done. Some interesting numbers are 0, 1 (can be treated distinct from aces eg for around-the-corner-straights or high card), pip values greater than 10, negative pip values, non-integer pip values, and funny numbers like π, e, and i (imaginary numbers — could also use quaternians etc if you understand them I guess). A neat thing one can do is to portray negative cards as photonegatives (this is done in _BDDG_, but is a fairly obvious idea for anyone who's photoshopped something before).
 
 The video game _Dungeons & Degenerate Gamblers_ uses many similar riffs on these concepts for blackjack cards. However, I've always found it annoying to have to differentiate between aces and 1s, after a lifetime of practicing the opposite rule.
 
 Similarly, the game of Rook https://en.wikipedia.org/wiki/Rook_(card_game) just goes ahead and has a 1-13 deck (and also 14, for some reason), in case you have religious objections to the regular deck (?! those Puritans sure were strange). It also adds a Rook card, which I suppose is conceptually a themed joker, as is found in many decks of playing cards... I suppose.
 
 Extending the number cards to infinity quickly gets you into paradoxes of the infinite. These can be resolved in your favorite ways to resolve paradoxes of the infinite. It could certainly be fun to have number cards marked ∞ and ℵ! However, for the more-pedestrian cards this becomes a problem. What are you going to do, take a finite number of cards at random from an infinite collection of number cards? Good luck with that. (Nota bene: it's one of my pet peeves when people discussing paradoxes of the infinite assume this is impossible; it's not impossible: it simply requires an infinite amount of time, which is not more implausible than having an infinite amount of things to begin with. However, the algorithm to do this is not obvious, so I get why people assume you can't do it at all. It's called "resevoir sampling" and you can read about it here: https://en.wikipedia.org/wiki/Reservoir_sampling) Other musings about this topic (under other additional assumptions) can be found in my discussion of ∞-poker elsewhere in this document.
+
+### Chips
+
+The poker chips that track your score could naturally have the same numerical tricks applied to them, I suppose, although it doesn't seem that interesting to me.
+
+### Blind markers
+
+Poker games often have tokens that indicate the "blinds", or forced bets, that you have to make, and sometimes also the dealer, and also the term "button" is occasionally involved (not quite sure why — did they use buttons at some point, or...?). The blind structure is already varied in regular poker, and you could vary it more here, although nothing speaks to me.
 
 ### Face and special cards
 
