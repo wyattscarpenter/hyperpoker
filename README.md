@@ -6,6 +6,8 @@
 
 > “Extend the playing cards? Good heavens, for what purpose would one do that?” —me later, probably
 
+## Topical preamble (should be read)
+
 This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
 
 This is tentatively assembling itself into a monograph that I am tentatively titling "On The Composition And Generalization Of Playing Cards". Although at present it has much more the character of a collection of notes. The traditional academic title of such a work would likely be "Towards" and then some description of the thing I'm making notes to further the end of, but I don't feel like calling it that. So, the title will probably be "Hyperpoker, or, On The Composition And Generalization Of Playing Cards"
@@ -21,6 +23,24 @@ There are three main categories of thought I have about this topic. Cards, rules
 Spurred by the observation occasionally made online that people could have, technologically speaking, developed _Dungeons & Dragons_ at almost any point in human history, but did not, when _Balatro_ came out I observed that some very strange man could have invented it at almost any time in human history after the invention of the playing card; it just would have been very inconvenient to play. Inspired by John Wilkins' _An Essay Towards a Real Character, and a Philosophical Language_, and other weird projects I have heard about undertaken by English parsons in that approximate time period, I riffed that some Enlightenment-era English vicar could invent it and write a monograph describing how to play it. (I'm not really clear on the difference between "parson" and "vicar", but let's not worry about that.) He would call it "Spanish Balatro", for unclear and possibly racist reasons. Mr Spanish Balatro would be the only guy to play this new game of his, because you have to manually multiply and sum a huge number of figures. That riff went in all sort of other directions, largely unrelated to this document. But the point is I've fallen into the parson trap. Here is my monograph. Unlike Mr Real Balatro, I have not made a game that makes me millions of dollars, just a large series of notes. The reasons for this are multifarious, but the main reason is that I actually have very little interest in game design. Sometimes I like playing games, and sometimes I like learning about things, but very rarely have I ever made a game, and never a very good one. (I think. I'm not sure how to really determine if a game is good.)
 
 I didn't understand why people in the past were so occupied with gambling until this _Balatro_ craze. It literally was the indie rougelite deckbuilder of its day. What else were smart people going to obsess over for endless rounds? That said, I do not actually like _Balatro_ very much. I actually view it as inferior to regular poker, in my personal taste in card games.
+
+## Research resources
+
+I mainly relied on Wikipedia pages for my research here. There is a vast hobbyist blogosphere, some blogs of which are even still alive, filled with information on particular decks and card games, but due to my level of abstraction in this endeavor this is usually not very useful to me. I have also considered joining the international association of card games to read their journals.
+
+So, keep in mind that this "research" is mostly not primary-based research where I hunt down cards, nor even secondary-based research where I read research papers, but tertiary-based research where I read Wikipedia. Still counts, though! And still makes me know more about playing card history than almost everyone in the world.
+
+I am also just aware of things by running into them in my life, and will mention these when appropiate, although likely they are not important. Here are some common acronyms I might use on their own (I will try to remember to always _italicize_ them) with no explanation, explained here:
+* _DDG_: _Dungeons & Degenerate Gamblers_, a video game
+* _B_: _Balatro_, a video game
+* _DDGB_: _DDG_, and possibly also _B_ (I played a lot more of _DDG_ than _B_, so my memories of _B_ are often hazier)
+* _BDDG_:  _B_, and possibly also _DDG_
+* _BD?_ (or similar): possibly in one or several of _B_ and/or _DDG_ (or any other combination of sources I might throw in there)
+* _I_: _Inscryption_, a video game
+
+(I don't expect to ever go back and nail down these uncertainties, in cases where I am uncertain, because it's not ultimately important.)
+
+If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. (Or maybe I just already knew it as basic uncontroversial knowledge.) I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
 
 ## Video game implementation (hypothetical)
 
@@ -155,24 +175,6 @@ Being public domain really helps your iclonicity, in my view. I don't think it's
 Many people get obsessed with tracking down all the individual decks of cards made, or all the games that are actually played with cards, but those things don't interest me. (Except, of course, in that looking at all of the card games ever played helps me figure out what the cards are and do.) I suppose it's similar to how many people get obsessed with fonts (to the extent that font designer are making 100,000 identical helvetica fonts) but I'm more of a symbol obsessive and don't care much about the fonts. Just a different level of abstraction we find appealing, I suppose.
 
 I'm unclear if the appeal of cards for cartomancy is also driven by the same underlying psychological attraction to cards that inspires people to obsess over and investigate them, and I don't know enough people like this to speculate. Those two bitter rival (or perhaps... lover?) camps, so divided in their attitudes, yet united in their love of the objects & perhaps iclonis.
-
-### Research resources
-
-I mainly relied on Wikipedia pages for my research here. There is a vast hobbyist blogosphere, some blogs of which are even still alive, filled with information on particular decks and card games, but due to my level of abstraction in this endeavor this is usually not very useful to me. I have also considered joining the international association of card games to read their journals.
-
-So, keep in mind that this "research" is mostly not primary-based research where I hunt down cards, nor even secondary-based research where I read research papers, but tertiary-based research where I read Wikipedia. Still counts, though! And still makes me know more about playing card history than almost everyone in the world.
-
-I am also just aware of things by running into them in my life, and will mention these when appropiate, although likely they are not important. Here are some common acronyms I might use on their own (I will try to remember to always _italicize_ them) with no explanation, explained here:
-* _DDG_: _Dungeons & Degenerate Gamblers_, a video game
-* _B_: _Balatro_, a video game
-* _DDGB_: _DDG_, and possibly also _B_ (I played a lot more of _DDG_ than _B_, so my memories of _B_ are often hazier)
-* _BDDG_:  _B_, and possibly also _DDG_
-* _BD?_ (or similar): possibly in one or several of _B_ and/or _DDG_ (or any other combination of sources I might throw in there)
-* _I_: _Inscryption_, a video game
-
-(I don't expect to ever go back and nail down these uncertainties, in cases where I am uncertain, because it's not ultimately important.)
-
-If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. (Or maybe I just already knew it as basic uncontroversial knowledge.) I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
 
 ### on the concept of generalization
 
