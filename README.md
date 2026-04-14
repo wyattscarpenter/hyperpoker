@@ -166,9 +166,13 @@ I am also just aware of things by running into them in my life, and will mention
 * _DDG_: _Dungeons & Degenerate Gamblers_, a video game
 * _B_: _Balatro_, a video game
 * _DDGB_: _DDG_, and possibly also _B_ (I played a lot more of _DDG_ than _B_, so my memories of _B_ are often hazier)
+* _BDDG_:  _B_, and possibly also _DDG_
+* _BD?_ (or similar): possibly in one or several of _B_ and/or _DDG_ (or any other combination of sources I might throw in there)
 * _I_: _Inscryption_, a video game
 
-If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
+(I don't expect to ever go back and nail down these uncertainties, in cases where I am uncertain, because it's not ultimately important.)
+
+If I don't link to some source, you can pretty much just assume I'm reading it off wikipedia, and maybe corroborating it with some other sources. (Or maybe I just already knew it as basic uncontroversial knowledge.) I may also give you a link to Wikipedia since this is a sketchy overview and that's step one to getting more information (before step 2, which is, idk, reading an actual book about it, maybe).
 
 ### on the concept of generalization
 
@@ -242,7 +246,7 @@ The joker vs the fool (convergent evolution?)
 
 I guess that's pretty much it.
 
-It would be cool to have a "Jack of Mondrains", like in the style of the painter cross with the style of regular face cards. Did some game do this? Maybe DDG?
+It would be cool to have a "Jack of Mondrains", like in the style of the painter cross with the style of regular face cards. Did some game do this? _DB?_
 
 ### Various
 
