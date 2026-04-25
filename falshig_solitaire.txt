@@ -1,0 +1,35 @@
+Falshig Solitaire
+
+Indie roguelite deckbuilder at home.
+
+My particular instance of the general concept of a physical indie roguelite deckbuilder is called, due to my arbitrary whims, "Falshig Solitaire". "Solitaire" because it's a one-player game (or you can make a team that votes on your moves, hey, why not?) (you could also adapt the game to multiple people pretty easily, either competitively or cooperatively), although it isn't related to the most famous solitaire, Klondike solitaire (also just called "solitaire" in the usa: https://en.wikipedia.org/wiki/Solitaire_(solitaire) ) ; "Falshig" because of my arbitrary whim. I'm pretty sure no one will remember that name, though, so you can call it "Flashy" for short, which surprisingly is not already the name of a card game, despite my expectations. You may also call it "Falshig" for short, or even " Falsh’ ".
+
+I feel like the "simplest" way to do this, which is also not going to be fun is:
+1. Assign every suit a meaning when played. So hearts heal you, spades shield you, clubs damage opponents, and diamonds give you money (stolen from _Dungeons & Degenerate Gamblers_)
+2. Track any stats like Health with poker chips.
+3. Maybe occasionally use die or the flips of coins for randomness.
+4. On your turn, you get to draw five cards per turn and then play 3, discarding everything.
+5. The loop is, you draw an opponent, a card from the deck (the opponent deck is a regular 52 but it's distinct from your deck), and give them some number of health chips based on how many opponents you've fought,. Then you get a turn. Then they get a turn, playing the first card from their deck. I guess you add the value of the opponent card to the value of the card they play, so it makes a difference, or maybe you define special rules for each value card you might fight.
+6. Then the game ends (bad) when you lose all your health, or the opponent decks out. Or maybe after some set number of opponents or whatever.
+
+Oh, I forgot about the buy phase.
+After you beat an opponent you get to buy or pass (or maybe remove?) on the next card drawn from the opponent deck.
+
+Well the "easiest" way of adding more complexity is, like, special cards with special effects mixed into the opponent deck.
+But the more economical way is, like "uh, black threes are negative in this game. it's like crazy eights. consult the rulebook".
+
+Oh also you can just get rid of the normal cards if you want and completely recreate any (i.r.d.) game in this logic, kind of. But having the actual cards in it adds to the charm. For the same reason, the tarot definitely goes in as well. Probably also the esoteric (viz., not-French) suits like Cups and Bells, as well. Also maybe the chess pieces. I draw the line at putting in the cards from, eg, Clue, tho.
+
+(My friend Jason: Throw in Napoleon the third and prepositions while you're at it.)
+(Me: "I play _thereby_, which allows me to DRAW TWO CARDS FROM THE TOP OF MY DECK")
+
+(Jason, with whom I was speaking about this topic, has thus invented his own Jason Falshig Solitaire while riffing on the same topic in different ways; which I do not record here. If he wants to bundle up his notes thereon and make a PR here, all the better...)
+
+Ironically you probably wouldn't use the Jokers in physical ird because you would need them to be used for the regular use of jokers, viz. replacing other lost cards. (Note from later: this claim is dubious in all parts.)
+
+Come to think of it, the tarot is an early forerunner of indie roguelike deckbuilder cards.
+But they don't have special rules afaik. (They are all just trumps. But the card art is really interesting.)
+
+Bonus ruleset: wacky falshig
+each card gets a wacky effect if it's the opponent card.
+or maybe if you play it? IDK. Maybe only wacky cards get to have wacky on-play effects, and normal cards just need flavor as enemies to make the game exciting.
