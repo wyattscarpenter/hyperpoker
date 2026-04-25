@@ -8,7 +8,7 @@
 
 ## Topical preamble (should be read)
 
-This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care).
+This repo contains various ideas I have had regarding hyperpoker, which I also call generalized poker or generalized hyperpoker. Herein are also contained a wide variety of facts and impressions about playing cards and their history in general, which are relevant only to a small piece of hyperpoker, but must indeed be included for that part (although that part in total can be completely skipped if one does not care). The other, shorter files in this repo contain ideas I've had (such as for various other games) that are not hyperpoker but are sort of related.
 
 This is tentatively assembling itself into a monograph that I am tentatively titling "On The Composition And Generalization Of Playing Cards". Although at present it has much more the character of a collection of notes. The traditional academic title of such a work would likely be "Towards" and then some description of the thing I'm making notes to further the end of, but I don't feel like calling it that. So, the title will probably be "Hyperpoker, or, On The Composition And Generalization Of Playing Cards"
 
