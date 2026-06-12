@@ -1,5 +1,5 @@
 mindpalace ird
 
-on the topic of how I don't actually care about game design, the indie rouglike deck builder that I play only in my mind palace. Uh anyway I guess I should write down TODO what it looks like, why I don't actually make it, and some potential game mechanics it could have (like maybe every enemy, instead of being variations on a core set of mechanics like in  is actually a completely different card game, from the roster of popular card games).
+on the topic of how I don't actually care about game design, which is noted in the main treatise as I reflect on how I wrote a treatise instead of making a game, for that same reason I "made" an indie rougelite deck builder that I play only in my mind palace. Uh anyway I guess I should write down TODO what it looks like, why I don't actually make it, and some potential game mechanics it could have (like maybe every enemy, instead of being variations on a core set of mechanics like in  is actually a completely different card game, from the roster of popular card games).
 
 I'm considering calling this poker·ogue, as a pun on PokéRogue, a game I've never played.
