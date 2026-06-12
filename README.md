@@ -240,6 +240,13 @@ Tarot Nouveau
 
 As far as I know there is no Modern Linear rendition of the tarot. Guess I'll have to sink my savings into commissioning a full deck of face-card style tarot cards. Oh well!
 
+Amusing: there is a variant tarot ("Minchiate, also known as Germini or Tarocchi fiorentini (Florentine tarot), [...] an early 16th-century card game, originating in Florence, Italy") which expanded the already ridiculously large number of Tarot cards to almost double the size by including the remaining four of the seven heavenly virtues, the four elements, and the zodiac. https://en.wikipedia.org/wiki/Minchiate
+Sadly this conflicts with the use of the four elements in the Tarot Nouveau, rending impossible my latent desire to unify them all and create some sort of ultimate gigatarot.
+Although I guess the tarot nouveau groups those in groups of two, which saves it a bit. (could all of the elements of the powerset of these elements be cards? possibly as a joke?)
+This Wikipedia page history section kind of suggests, roughly, that more trumps = better game.
+A bigger problem for compatibility is that instead of appending to the old tarot, Minchiate "was created by inserting the 20 new trumps as a single block between trump 15 and The Star, which is now trump 36". So the numbering of the top 5 cards is fucked up now. Wouldn't be a big deal, except Tarot cards usually have their numbers written on them in Roman Numerals. So you'd have to renumber either star–judgement or hope–gemini 
+I guess I understand why they did that. The trumps are sort of in increasing power level order of their real-life equivalents. Maybe.
+
 Now that Minchiate has pointed it out: I have no idea why the classic tarot includes only 3 of the 4 cardinal virtues (an iclonic set! albeit one I don't really care about), eschewing Prudence but keeping Fortitude, Temperance, Justice.
 
 Hanafuda cards (note that hanafuda cards canonically have 13 *suits* and 4 *ranks*, which is crazy but whatever). Also those crazy poem cards, I guess: https://en.wikipedia.org/wiki/Uta-garuta. Also it's weird how the japanese had no playing cards until the portguese imported them or whatever even though they live right next to China.
