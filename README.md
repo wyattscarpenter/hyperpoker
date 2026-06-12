@@ -265,6 +265,12 @@ I guess that's pretty much it.
 
 It would be cool to have a "Jack of Mondrains", like in the style of the painter cross with the style of regular face cards. Did some game do this? _DB?_
 
+TODO: note asses aces/coins etymology
+
+TODO: note kaput etymology
+
+TODO: note trump etymology (special bonus: the name of the current POTUS... probably is not from this kind of "trump".)
+
 ### Various
 
 Lotería isn't a card game exactly, as we usually think of them, but it's perfect for me. As far as I can tell, Loteria is typically used to play a game of basically no sophitication, which is basically just bingo. It's a little bit more entertaining than bingo because it has pictures and a cantor reads out clues that are often puns; these clues often do not seem very hard, I don't think it's like a gameplay challenge, just additional interest. I've only ever used the Don Clemente cards, or cards based on those cards,  TODO it even wikilinks iconic (which is linked to "Secular icon" which redirects to https://en.wikipedia.org/wiki/Cultural_icon TODO connection to the tarot. There is some overlap with the tarot, maybe it was even based on it. Would be interesting to make a superset and claim that el sol is different from the tarot sun lol. But also, you could just claim that they overlap a bit... then again, I mean, it's not like I'd redraw all of the tarot and all of the loteria in each other's styles to justify the claim that they truely did overlap, if you feel me. TODO  TODO other variations are basically unknown to me. https://en.wikipedia.org/wiki/Loter%C3%ADa tells me https://en.wikipedia.org/wiki/Bai_choi is similar, and from there you start hearing about Tứ Sắc, Tam cúc, hô bài chòi, and everything in https://en.wikipedia.org/wiki/Bai_choi#See_also, which I will copy here for completeness: {
